@@ -45,6 +45,11 @@ $ npm run start:dev
 $ npm run start:prod
 ```
 
+## Running seed
+```bash
+$ npm run seed
+```
+
 ## Test
 
 ```bash
@@ -60,6 +65,9 @@ $ npm run test:cov
 
 ## Ads On
 Database structure link: https://dbdiagram.io/d/64f1fbbe02bd1c4a5ed06a2e
+
+Documentation can be access by accessing: `{domain}/api`<br>
+example: `localhost:3000/api`
 
 
 ## Support
